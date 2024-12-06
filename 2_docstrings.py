@@ -80,7 +80,7 @@ print(Calculator.subtract.__doc__)
 # print(help(obj.add))
 # print(help(Calculator.subtract))
 
-# 3️. Module Docstring:
+# 3. Module Docstring:
 '''
 -> A module-level docstring gives an overview of what the module offers.
 -> It’s placed at the top of the Python file.'''
