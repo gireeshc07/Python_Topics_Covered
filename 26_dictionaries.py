@@ -5,8 +5,7 @@
 -> Dictionaries are used to store data values in key:value pairs.
 -> Dictionaries are written with curly brackets, and have key and values which are separated by commas.
 -> Dictionaries : Ordered, Changeable(mutable), indexed by keys, Keys(only hashable types) : value(any data type)
--> It is called as Mapping rather than sequences because it implements the concept of a "mapping" from mathematics and computer science where mapping 
-refers to a collection of key:vlaue pairs.  
+-> It is called as Mapping rather than sequences because it implements the concept of a "mapping" from mathematics and computer science where mapping refers to a collection of key:vlaue pairs.  
 -> It has 11 built in methods
 '''
 # Syntax: my_dict = {key : value, key : value}
