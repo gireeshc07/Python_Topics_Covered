@@ -1,6 +1,6 @@
 "                                                              🐍 Sets in Python 🐍                                                                                                             "
 
-# Detailed Explanation of Sets in Python
+# Python Sets
 '''
 -> In Python, a set is an unordered and mutable collection of unique elements that does not allow duplicates.
 -> Sets are used to store multiple items in a single variable.
